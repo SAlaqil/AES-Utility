@@ -1,0 +1,280 @@
+bytes written:     720
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 12345678901234567890123456789012 -m cbc -in poem.txt -out poem128cbc.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+12345678901234567890123456789012
+-m
+cbc
+-in
+poem.txt
+-out
+poem128cbc.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     720
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 12345678901234567890123456789012 -m cfb -in poem.txt -out poem128cfb.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+12345678901234567890123456789012
+-m
+cfb
+-in
+poem.txt
+-out
+poem128cfb.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     712
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 12345678901234567890123456789012 -m ofb -in poem.txt -out poem128ofb.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+12345678901234567890123456789012
+-m
+ofb
+-in
+poem.txt
+-out
+poem128ofb.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     712
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 12345678901234567890123456789012 -m ctr -in poem.txt -out poem128ctr.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+12345678901234567890123456789012
+-m
+ctr
+-in
+poem.txt
+-out
+poem128ctr.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     712
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 123456789012345678901234567890123456789012345678 -m ecb -in poem.txt -out poem192ecb.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+123456789012345678901234567890123456789012345678
+-m
+ecb
+-in
+poem.txt
+-out
+poem192ecb.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     720
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 123456789012345678901234567890123456789012345678 -m cbc -in poem.txt -out poem192cbc.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+123456789012345678901234567890123456789012345678
+-m
+cbc
+-in
+poem.txt
+-out
+poem192cbc.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     720
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 123456789012345678901234567890123456789012345678 -m cfb -in poem.txt -out poem192cfb.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+123456789012345678901234567890123456789012345678
+-m
+cfb
+-in
+poem.txt
+-out
+poem192cfb.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     712
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 123456789012345678901234567890123456789012345678 -m ctr -in poem.txt -out poem192ctr.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+123456789012345678901234567890123456789012345678
+-m
+ctr
+-in
+poem.txt
+-out
+poem192ctr.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     712
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 1234567890123456789012345678901212345678901234567890123456789012 -m ecb -in poem.txt -out poem256ecb.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+1234567890123456789012345678901212345678901234567890123456789012
+-m
+ecb
+-in
+poem.txt
+-out
+poem256ecb.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     720
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 1234567890123456789012345678901212345678901234567890123456789012 -m cbc -in poem.txt -out poem256cbc.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+1234567890123456789012345678901212345678901234567890123456789012
+-m
+cbc
+-in
+poem.txt
+-out
+poem256cbc.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     720
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 1234567890123456789012345678901212345678901234567890123456789012 -m cfb -in poem.txt -out poem256cfb.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+1234567890123456789012345678901212345678901234567890123456789012
+-m
+cfb
+-in
+poem.txt
+-out
+poem256cfb.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     712
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 1234567890123456789012345678901212345678901234567890123456789012 -m fbo -in poem.txt -out poem256ofb.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+1234567890123456789012345678901212345678901234567890123456789012
+-m
+fbo
+-in
+poem.txt
+-out
+poem256ofb.txt
+Exception in thread "main" java.lang.IllegalArgumentException: Empty command
+        at java.lang.Runtime.exec(Unknown Source)
+        at java.lang.Runtime.exec(Unknown Source)
+        at aesu.main(aesu.java:85)
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 1234567890123456789012345678901212345678901234567890123456789012 -m ofb -in poem.txt -out poem256ofb.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+1234567890123456789012345678901212345678901234567890123456789012
+-m
+ofb
+-in
+poem.txt
+-out
+poem256ofb.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     712
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>java aesu -e -k 1234567890123456789012345678901212345678901234567890123456789012 -m ctr -in poem.txt -out poem256ctr.txt
+Number of arguments:9 arguments.
+Argument List:
+-e
+-k
+1234567890123456789012345678901212345678901234567890123456789012
+-m
+ctr
+-in
+poem.txt
+-out
+poem256ctr.txt
+Here is the standard output of the command:
+
+Here is the standard error of the command (if any):
+
+bufsize=8192
+bytes read   :     712
+bytes written:     712
+
+C:\Users\Salaqil\Desktop\CS430Project\AES Utility>
